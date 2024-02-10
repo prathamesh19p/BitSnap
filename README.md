@@ -1,6 +1,6 @@
 # BitSnap
 
-BitSnap is a URL shortener project created using Flask, Python, and JavaScript.
+BitSnap is a URL shortener project that simplifies lengthy URLs into concise links, optimizing web address sharing and enhancing user accessibility.
 
 ## Overview
 
